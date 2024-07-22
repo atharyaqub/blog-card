@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap");
+
+body {
+  background-color: #f5d04e;
+  font-family: Figtree;
+}
+.card {
+  background-color: white;
+  height: 650px;
+  max-width: 500px;
+  
+  border: 1px solid;
+  box-shadow: 10px 10px 0 rgba(0, 0, 0, 1);
+  padding: 20px;
+  border-radius: 20px;
+ 
+}
+.illustration {
+    width: 100%;
+    border-radius: 10px;
+margin-bottom: 20px;
+ 
+}
+.learning {
+  background-color: #f5d04e;
+  font-weight: bold;
+  max-width: 90px;
+  min-height: 30px;
+  margin-left: 15px;
+  border-radius: 5px;
+  text-align: center;
+  padding: 3px;
+  line-height: 30px;
+}
+.date{
+    margin-left: 15px;
+    
+}
+.title{
+    margin-left: 15px;
+}
+.content{
+    margin-left: 15px;
+}
+.author{
+    display: flex;
+}
+.aurherpic{
+    margin-left: 15px;
+
+}
+.authorname{
+    font-weight: 800;
+    margin-left: 15px;
+}
